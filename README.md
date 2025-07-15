@@ -39,8 +39,12 @@ A full-stack web application that lets users upload their resume (PDF), extracts
 - App opens at http://localhost:3000
 
 ✨ Future Improvements
-  🔐 User login/signup (JWT Auth)
-  💡 AI-powered skill extraction (OpenAI/GPT)
-  📊 Admin dashboard (analytics)
-  📄 PDF export of job matches
-  📌 Bookmark/save jobs
+🔐 User login/signup (JWT Auth)
+
+💡 AI-powered skill extraction (OpenAI/GPT)
+
+📊 Admin dashboard (analytics)
+
+📄 PDF export of job matches
+
+📌 Bookmark/save jobs
